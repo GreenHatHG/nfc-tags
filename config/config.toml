@@ -1,0 +1,6 @@
+[server]
+	Address     = ":8199"
+	LogStdout         = true
+	ErrorStack        = true
+    ErrorLogEnabled   = true
+    AccessLogEnabled  = true
